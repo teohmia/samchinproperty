@@ -1,0 +1,45 @@
+[
+  {
+    "id": "orchard-residences-3br",
+    "type": "sale",
+    "featured": true,
+    "title": "Orchard Residences",
+    "district": "District 9",
+    "propertyType": "Condominium",
+    "price": "$2,180,000",
+    "priceSuffix": "",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1130,
+    "tenure": "Freehold",
+    "description": "A bright 3-bedroom unit in the heart of Orchard, with unblocked city views and full condo facilities. Two minutes' walk to Orchard MRT.",
+    "amenities": ["Pool", "Gym", "24hr Security", "Covered Parking"],
+    "nearby": ["Orchard MRT — 2 min walk", "ION Orchard", "Orchard Road"],
+    "images": [
+      { "src": "images/listings/orchard-residences-3br/orchard-residences-living-room.jpg", "alt": "Orchard Residences living room with city view" },
+      { "src": "images/listings/orchard-residences-3br/orchard-residences-master-bedroom.jpg", "alt": "Orchard Residences master bedroom" }
+    ],
+    "lat": 1.3048,
+    "lng": 103.8318
+  },
+  {
+    "id": "river-valley-1br-rental",
+    "type": "rent",
+    "featured": true,
+    "title": "Riverfront Suites",
+    "district": "District 9",
+    "propertyType": "Condominium",
+    "price": "$4,200",
+    "priceSuffix": "/mo",
+    "beds": 1,
+    "baths": 1,
+    "sqft": 560,
+    "tenure": "",
+    "description": "Fully furnished 1-bedroom with river views, available for immediate move-in. Minimum 12-month lease.",
+    "amenities": ["Pool", "Gym", "BBQ Pits"],
+    "nearby": ["Somerset MRT", "Great World City", "Robertson Quay"],
+    "images": [],
+    "lat": 1.2901,
+    "lng": 103.8378
+  }
+]
